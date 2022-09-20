@@ -1,0 +1,15 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.abc {
+    font-size:40px ;
+    font-weight: 600;
+    color: rgba(15, 57, 247, 0.856);
+}
+span{
+    color:rgb(48, 220, 250);
+}
+p{
+    font-size:20px;
+    padding:20px;
+}
